@@ -4,8 +4,6 @@
 </div>
 
 [![Download 2.x](https://api.bintray.com/packages/janishar/mindorks/placeholderview-2/images/download.svg) ](https://bintray.com/janishar/mindorks/placeholderview-2/_latestVersion)
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Some Implementations
@@ -13,13 +11,19 @@
 
 -----
 # Documentation
-You can find the PlaceHolderView documentation [here](http://janishar.com/PlaceHolderView/docs/introduction.html) which has extended usage instructions and other useful information. 
+You can find the PlaceHolderView documentation [here](https://janishar.github.io/PlaceHolderView/docs/introduction.html) which has extended usage instructions and other useful information. 
 
-<a href="http://janishar.com/PlaceHolderView" target="_blank"><img src="https://janishar.github.io/images/get-started-button.jpg" width="150" height="45"/></a>
+<a href="https://janishar.github.io/PlaceHolderView" target="_blank"><img src="https://janishar.github.io/images/get-started-button.jpg" width="150" height="45"/></a>
 
 -----
 # About PlaceHolderView
 Some of the views in PlaceHolderView library is build on top of RecyclerView and rest are written in its own.
+
+# About The Author
+You can connect with me here:
+* [Janishar Ali](https://janisharali.com)
+* [Twitter](https://twitter.com/janisharali)
+* [YouTube Channel](https://www.youtube.com/@unusualcode)
 
 **All the annotations are processed during build time to generate the binding classes**
 
@@ -116,7 +120,7 @@ If you are using proguard, then add this rule in proguard-project.txt
 # License
 
 ```
-   Copyright (C) 2016 Janishar Ali Anwar
+   Copyright (C) 2023 Janishar Ali Anwar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
